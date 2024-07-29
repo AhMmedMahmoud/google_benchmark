@@ -1,5 +1,6 @@
 # Google Benchmark
-# guide
+
+# Install google benchmark library
 - git clone https://github.com/google/benchmark.git
 - cd benchmark
 - cmake -E make_directory "build"
