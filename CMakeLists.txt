@@ -9,3 +9,7 @@ target_link_libraries(ex1 benchmark::benchmark)
 
 add_executable(ex2 example2.cpp)
 target_link_libraries(ex2 benchmark::benchmark)
+
+
+add_executable(ex3 example3.cpp)
+target_link_libraries(ex3 benchmark::benchmark)
